@@ -65,7 +65,7 @@ jobs:
            #git clone  https://github.com/Sweet-Fairy/openwrt-package
            #git clone -b lean  https://github.com/Sweet-Fairy/luci-app-ssr-plus-Jo package/luci-app-ssr-plus-lean    
            #git clone  https://github.com/lisaac/luci-lib-docker.git package/luci-lib-docker
-            git clone  https://github.com/fengling777/openwrt18.06/tree/master/package/my.git
+            git clone  https://github.com/fengling777/openwrt18.06.git/package/my
             
            
            # ==========ssr-plus-Jo   ssr-plus-lean不要一起编译  +vssr   ==========
